@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1C73-4598
+
+ Directory of C:\Users\vs810p\Documents\python\My Project
+
+05/21/2019  01:09 PM    <DIR>          .
+05/21/2019  01:09 PM    <DIR>          ..
+05/21/2019  01:09 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  111,984,635,904 bytes free
